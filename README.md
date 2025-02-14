@@ -2,10 +2,14 @@ Snake, Gun, and Water Game in Python
 The Snake, Gun, and Water game is a variation of the classic Rock, Paper, Scissors game. It is a two-player game where one player competes against the computer.
 
 Game Rules:
-Snake vs. Gun → Gun Wins
-Gun vs. Water → Water Wins
-Water vs. Snake → Snake Wins
+Snake vs. Gun → Gun Wins.
+
+Gun vs. Water → Water Wins.
+
+Water vs. Snake → Snake Wins.
+
 If both players choose the same option, it's a tie.
+
 Game Flow:
 The user selects one of the three options: Snake, Gun, or Water.
 The computer randomly picks one of the three options.
